@@ -1,3 +1,4 @@
 # bikerides
 you ride a bike
 this game is very stupid
+why is this a js file
